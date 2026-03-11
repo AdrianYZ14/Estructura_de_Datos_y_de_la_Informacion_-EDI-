@@ -1,6 +1,5 @@
 #include "Artista.h"
-using namespace std;
-
+#include <iostream>
 
 Artista::Artista() {
 	this->nombre = "";

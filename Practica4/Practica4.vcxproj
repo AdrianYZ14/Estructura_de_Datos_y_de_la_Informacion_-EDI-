@@ -134,6 +134,7 @@
   <ItemGroup>
     <ClCompile Include="Artista.cpp" />
     <ClCompile Include="Cancion.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="PruebaArtista.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -3,8 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Practica1/Practica1.vcxproj" />
-  <Project Path="Practica2/Practica2.vcxproj" />
-  <Project Path="Practica3/Practica3.vcxproj" />
-  <Project Path="Practica4/Practica4.vcxproj" />
+  <Project Path="Practica1/Practica1.vcxproj" Id="4ee4cb71-56af-43c2-abfd-d9ce4230982f" />
+  <Project Path="Practica2/Practica2.vcxproj" Id="e9ac3d3d-c884-4201-ad28-df1691c9542b" />
+  <Project Path="Practica3/Practica3.vcxproj" Id="afa01f74-e9ac-4ea7-8587-6dacb4d014e4" />
+  <Project Path="Practica4/Practica4.vcxproj" Id="aa79cf57-6a4f-462e-ba42-105db7b9cee5" />
+  <Project Path="Practica5/Practica5.vcxproj" Id="c9c817b5-d6db-484b-aabf-7e7cba3ee1e0" />
 </Solution>
