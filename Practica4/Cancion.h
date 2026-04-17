@@ -19,7 +19,7 @@ public:
 	const string getTitulo();
 	const string getGenero();
 	const int getDuracion();
-
+	
 	//setters
 	void setTitulo(string titulo);
 	void setGenero(string genero);

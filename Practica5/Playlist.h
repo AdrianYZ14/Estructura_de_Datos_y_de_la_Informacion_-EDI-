@@ -8,6 +8,7 @@ class Playlist {
     int            numCanciones;
     int            duracion; // en segundos 
     Cola<Cancion*>* colaReproduccion; // agregación con las canciones 
+
 public:
     Playlist();
     Playlist(string nombre);
